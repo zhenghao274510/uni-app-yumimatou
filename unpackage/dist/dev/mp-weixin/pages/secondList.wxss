@@ -1,0 +1,9 @@
+
+.uni-flex.data-v-537e540e {
+	background-color: #FFFFFF;
+	padding: 20rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+

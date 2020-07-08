@@ -1,0 +1,10 @@
+{
+  "onReachBottomDistance": 200,
+  "usingComponents": {
+    "home": "/components/tabBar/home",
+    "mine": "/components/tabBar/mine",
+    "first-class": "/components/tabBar/class",
+    "cp": "/components/tabBar/cp",
+    "cart": "/components/tabBar/cart"
+  }
+}

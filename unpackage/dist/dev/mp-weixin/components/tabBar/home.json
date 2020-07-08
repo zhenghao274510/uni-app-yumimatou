@@ -1,0 +1,14 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "notice": "/components/home/notic",
+    "home-list": "/components/mycom/homeList",
+    "banner-swiper": "/components/mycom/swiper",
+    "navs": "/components/home/navs",
+    "detive": "/components/home/detive",
+    "scoll-compline": "/components/home/scoll-x-xompline",
+    "picker-pop": "/components/mycom/homePop",
+    "home-count-down": "/components/homeCountDown/homeCountDown"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "banner-swiper": "/components/mycom/swiper",
+    "cp-scroll-new": "/components/mycom/cp-scroll-new",
+    "cp-ling": "/components/mycom/cplinggan"
+  }
+}

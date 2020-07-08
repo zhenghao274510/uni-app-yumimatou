@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "uni-goods-nav": "/components/mycom/cp-good-nav",
+    "cp-details": "/components/mycom/cpDetails",
+    "cp-scoll-x": "/components/mycom/cp-scoll-x",
+    "m-table": "/components/p-table/mtable/mtable"
+  }
+}

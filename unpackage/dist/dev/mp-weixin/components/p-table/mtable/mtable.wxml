@@ -1,0 +1,1 @@
+<view class="content"><view class="genaral-area"><block wx:for="{{options}}" wx:for-item="v" wx:for-index="k" wx:key="k"><view class="flex-box table tc"><view class="item-2 uni-flex-item">{{''+v.materialname+''}}</view><view class="{{['item-2 uni-flex-item',(k%2==0)?'on':'']}}">{{''+v.menusweight+''}}</view></view></block></view></view>

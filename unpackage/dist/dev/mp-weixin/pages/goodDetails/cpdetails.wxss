@@ -1,0 +1,488 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.loadingImg.data-v-a0817a18 {
+  width: 124rpx !important;
+  height: 124rpx !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+.detail-desc.data-v-a0817a18 {
+  padding: 0 20rpx;
+}
+.cpdetails-cailiao.data-v-a0817a18 {
+  border: 1px solid #CCCCCC;
+  padding: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  border-radius: 10rpx;
+}
+.cpdetails-cailiao-item.data-v-a0817a18 {
+  width: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  border-bottom: 2rpx solid #CCCCCC;
+}
+.border-left.data-v-a0817a18 {
+  border-left: 2rpx solid #CCCCCC;
+}
+.food-step-con.data-v-a0817a18 {
+  padding: 0 30rpx;
+}
+.cpdetails-img-icon.data-v-a0817a18 {
+  margin-bottom: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.cpdetails-img.data-v-a0817a18 {
+  position: relative;
+  width: 690rpx;
+  border-radius: 4rpx;
+}
+.cpdetails-img image.data-v-a0817a18 {
+  width: 690rpx;
+  height: 437rpx;
+  border-radius: 4rpx;
+}
+.cpdetails-step.data-v-a0817a18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #6fd758;
+  color: #FFFFFF;
+  font-size: 26rpx;
+  width: 117rpx;
+  height: 43rpx;
+  text-align: center;
+}
+.cpdetails-info.data-v-a0817a18 {
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #999999;
+  text-align: left;
+  width: 100%;
+  padding: 10rpx 0;
+}
+.cpdetails-title.data-v-a0817a18 {
+  font-size: 30rpx;
+  font-weight: 500;
+  color: #333333;
+  line-height: 64rpx;
+}
+.price.data-v-a0817a18 {
+  color: #FF0000;
+}
+.con.data-v-a0817a18 {
+  color: #999999;
+  font-size: 24rpx;
+}
+.uni-flex-tit.data-v-a0817a18 {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #333333;
+  margin-right: 20rpx;
+}
+.uni-space.data-v-a0817a18 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.c-list.data-v-a0817a18 {
+  border-bottom: 2px solid #F6F6F6;
+  padding: 30rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.pos-btn.data-v-a0817a18 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.uni-flex-item.data-v-a0817a18 {
+  text-align: center;
+  color: #FFFFFF;
+  height: 88rpx;
+  line-height: 88rpx;
+}
+.one.data-v-a0817a18 {
+  color: #333333;
+}
+.two.data-v-a0817a18 {
+  background: #F55555;
+}
+.sku.data-v-a0817a18 {
+  color: #999999;
+  font-size: 24rpx;
+  margin-left: 30rpx;
+  margin-top: 14rpx;
+}
+.price-tip.data-v-a0817a18 {
+  color: #999999;
+  font-size: 26rpx;
+}
+.uni-icon-arrowright.data-v-a0817a18 {
+  font-size: 30rpx;
+  color: #CCCCCC;
+}
+.choseNum.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 20rpx 30rpx;
+}
+.container.data-v-a0817a18 {
+  padding-bottom: 100px;
+}
+.carousel.data-v-a0817a18 {
+  height: 722rpx;
+  position: relative;
+}
+.carousel .image-wrapper.data-v-a0817a18 {
+  width: 750rpx;
+  height: 722rpx;
+}
+.carousel swiper.data-v-a0817a18 {
+  width: 750rpx;
+  height: 722rpx;
+}
+.carousel .swiper-item.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-align-content: center;
+          align-content: center;
+  height: 750rpx;
+  width: 750rpx;
+  overflow: hidden;
+  position: relative;
+}
+.carousel .swiper-item image.data-v-a0817a18 {
+  height: 750rpx;
+  width: 750rpx;
+}
+/* 标题简介 */
+.introduce-section.data-v-a0817a18 {
+  padding: 20rpx 30rpx;
+}
+.introduce-section .title.data-v-a0817a18 {
+  font-size: 32rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  font-weight: bold;
+}
+.introduce-section .price-box.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+          align-items: baseline;
+  color: #F55555;
+}
+.introduce-section .price.data-v-a0817a18 {
+  font-size: 36rpx;
+}
+.introduce-section .coupon-tip.data-v-a0817a18 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 4rpx 10rpx;
+  color: #fff;
+  border-radius: 6rpx;
+  line-height: 1;
+  -webkit-transform: translateY(-4rpx);
+          transform: translateY(-4rpx);
+}
+.introduce-section .bot-row.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 50rpx;
+  color: #333333;
+}
+.introduce-section .bot-row text.data-v-a0817a18 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.eva-box.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 20rpx 0;
+}
+.eva-box .portrait.data-v-a0817a18 {
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 100px;
+}
+.eva-box .right.data-v-a0817a18 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding-left: 26rpx;
+}
+.eva-box .right .con.data-v-a0817a18 {
+  padding: 20rpx 0;
+}
+.eva-box .right .bot.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+/*  详情 */
+.detail-desc.data-v-a0817a18 {
+  margin-top: 16rpx;
+  padding-bottom: 80rpx;
+}
+.detail-desc .d-header.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 80rpx;
+  position: relative;
+}
+.detail-desc .d-header text.data-v-a0817a18 {
+  padding: 0 20rpx;
+  position: relative;
+  z-index: 1;
+  color: #333333;
+  font-weight: 600;
+}
+/* 规格选择弹窗 */
+/* 规格选择弹窗 */
+.attr-content.data-v-a0817a18 {
+  padding: 10rpx 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.attr-content .a-t.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 30rpx;
+  position: relative;
+}
+.attr-content .a-t image.data-v-a0817a18 {
+  width: 200rpx;
+  height: 200rpx;
+  -webkit-flex-shrink: 0;
+          flex-shrink: 0;
+  border-radius: 8rpx;
+}
+.attr-content .a-t .right.data-v-a0817a18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  padding-left: 224rpx;
+  line-height: 42rpx;
+}
+.attr-content .a-t .right .price.data-v-a0817a18 {
+  margin-bottom: 10rpx;
+}
+.attr-content .a-t .right .selected-text.data-v-a0817a18 {
+  margin-right: 10rpx;
+}
+/*  弹出层 */
+.popup.data-v-a0817a18 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 99;
+}
+.popup.show.data-v-a0817a18 {
+  display: block;
+}
+.popup.show .mask.data-v-a0817a18 {
+  -webkit-animation: showPopup-data-v-a0817a18 0.2s linear both;
+          animation: showPopup-data-v-a0817a18 0.2s linear both;
+}
+.popup.show .layer.data-v-a0817a18 {
+  -webkit-animation: showLayer-data-v-a0817a18 0.2s linear both;
+          animation: showLayer-data-v-a0817a18 0.2s linear both;
+}
+.popup.hide .mask.data-v-a0817a18 {
+  -webkit-animation: hidePopup-data-v-a0817a18 0.2s linear both;
+          animation: hidePopup-data-v-a0817a18 0.2s linear both;
+}
+.popup.hide .layer.data-v-a0817a18 {
+  -webkit-animation: hideLayer-data-v-a0817a18 0.2s linear both;
+          animation: hideLayer-data-v-a0817a18 0.2s linear both;
+}
+.popup.none.data-v-a0817a18 {
+  display: none;
+}
+.popup .mask.data-v-a0817a18 {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.popup .layer.data-v-a0817a18 {
+  position: fixed;
+  z-index: 99;
+  bottom: 0;
+  min-height: 40vh;
+  background-color: #fff;
+}
+@-webkit-keyframes showPopup-data-v-a0817a18 {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+@keyframes showPopup-data-v-a0817a18 {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+@-webkit-keyframes hidePopup-data-v-a0817a18 {
+0% {
+    opacity: 1;
+}
+100% {
+    opacity: 0;
+}
+}
+@keyframes hidePopup-data-v-a0817a18 {
+0% {
+    opacity: 1;
+}
+100% {
+    opacity: 0;
+}
+}
+@-webkit-keyframes showLayer-data-v-a0817a18 {
+0% {
+    -webkit-transform: translateY(120%);
+            transform: translateY(120%);
+}
+100% {
+    -webkit-transform: translateY(0%);
+            transform: translateY(0%);
+}
+}
+@keyframes showLayer-data-v-a0817a18 {
+0% {
+    -webkit-transform: translateY(120%);
+            transform: translateY(120%);
+}
+100% {
+    -webkit-transform: translateY(0%);
+            transform: translateY(0%);
+}
+}
+@-webkit-keyframes hideLayer-data-v-a0817a18 {
+0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+100% {
+    -webkit-transform: translateY(120%);
+            transform: translateY(120%);
+}
+}
+@keyframes hideLayer-data-v-a0817a18 {
+0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+}
+100% {
+    -webkit-transform: translateY(120%);
+            transform: translateY(120%);
+}
+}
+

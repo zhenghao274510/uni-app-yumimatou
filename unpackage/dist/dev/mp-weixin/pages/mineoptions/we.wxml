@@ -1,0 +1,1 @@
+<view class="we-content"><rich-text nodes="{{content}}"></rich-text></view>

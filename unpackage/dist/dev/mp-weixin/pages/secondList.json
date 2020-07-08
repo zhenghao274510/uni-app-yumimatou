@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "秒杀",
+  "usingComponents": {
+    "wuc-tab": "/components/wuc-tab/wuc-tab",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "second-list": "/components/mycom/secondList",
+    "bbs-count-down": "/components/bbs-countdown/bbs-countdown",
+    "empty": "/components/mycom/empty"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box/uni-number-box",
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav",
+    "eva": "/components/mycom/goodEva",
+    "home-list": "/components/mycom/homeList",
+    "cp-details": "/components/mycom/cpDetails"
+  }
+}

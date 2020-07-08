@@ -1,0 +1,1 @@
+<view class="content"><lazy-list vue-id="6f1f87ee-1" dataList="{{dataList}}" bind:__l="__l"></lazy-list><block wx:if="{{emty}}"><empty vue-id="6f1f87ee-2" bind:__l="__l"></empty></block><block wx:else><uni-load-more vue-id="6f1f87ee-3" status="{{status}}" bind:__l="__l"></uni-load-more></block></view>

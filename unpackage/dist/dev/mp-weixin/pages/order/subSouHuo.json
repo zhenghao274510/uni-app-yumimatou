@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "申请售后",
+  "usingComponents": {
+    "order-product": "/components/mycom/ordeProduct",
+    "xfl-select": "/components/mycom/reson-select"
+  }
+}

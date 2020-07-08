@@ -1,0 +1,1 @@
+<view class="bbs-countdown" style="{{'color:'+(setColor)+';'}}"><text class="card">{{hours<10?'0'+hours:hours}}</text><text class="middle">:</text><text class="card">{{minutes<10?'0'+minutes:minutes}}</text><text class="middle">:</text><text class="card">{{seconds<10?'0'+seconds:seconds}}</text></view>

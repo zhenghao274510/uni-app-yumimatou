@@ -1,0 +1,65 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/carts",
+    "pages/search/searchCp",
+    "pages/search/searchLazy",
+    "pages/search/searchLazyList",
+    "pages/search/search_list",
+    "pages/search/search_list_cp",
+    "pages/goodDetails/gooddetails",
+    "pages/secondList",
+    "pages/parentList",
+    "pages/productList",
+    "pages/lazyList",
+    "pages/messageList",
+    "pages/useEvaList",
+    "pages/goodDetails/cpdetails",
+    "pages/goodDetails/groupDetails",
+    "pages/goodDetails/sconedDetails",
+    "pages/goodDetails/lazyDetails",
+    "pages/order/order",
+    "pages/order/payOrder",
+    "pages/order/orderDetails",
+    "pages/order/subSouHuo",
+    "pages/order/paySuccess",
+    "pages/order/finishOrder",
+    "pages/person",
+    "pages/author",
+    "pages/positionList",
+    "pages/order/addEva",
+    "pages/mineoptions/address",
+    "pages/mineoptions/addressManage",
+    "pages/mineoptions/newAddAdress",
+    "pages/mineoptions/compline",
+    "pages/mineoptions/fensi",
+    "pages/mineoptions/fencai",
+    "pages/mineoptions/setUp",
+    "pages/mineoptions/probelm",
+    "pages/mineoptions/money",
+    "pages/mineoptions/vip",
+    "pages/mineoptions/vipDetails",
+    "pages/mineoptions/we",
+    "pages/mineoptions/yijian",
+    "pages/mineoptions/tixian",
+    "pages/mineoptions/tixianSuccess",
+    "pages/mineoptions/webView"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "渔米码头",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小程序将获取你的位置信息"
+    }
+  },
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  },
+  "sitemapLocation": "sitemap59.json"
+}

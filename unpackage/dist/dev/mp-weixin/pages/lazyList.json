@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "懒人专区",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "banner-swiper": "/components/mycom/swiper",
+    "lazy-new": "/components/mycom/lazy-new",
+    "lazy-class-list": "/components/mycom/lazy-class-list"
+  }
+}
